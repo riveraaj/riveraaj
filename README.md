@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=NevilleMthw&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
+<img src="https://komarev.com/ghpvc/?username=riveraaj&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
 </div>
 
 
