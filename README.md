@@ -11,13 +11,11 @@
   </a>
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=riveraaj&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
-</div>
+<h1 align="center">
+  Hi there!✌🏼
+</h1>
 
-
-
-# 🦍 About Me:
+### :man_technologist: About Me:
 I'm currently working on my own projects<br>I'm currently learning web development and cloud computing 🌐<br>I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Jr. Developer 👨‍💻
 
 
