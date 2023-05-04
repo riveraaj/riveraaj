@@ -2,6 +2,21 @@
   <img src="Home.png" width="300"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/jriveraaa">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/__riveraa.j">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NevilleMthw&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
+</div>
+
+
+
 # 🦍 About Me:
 I'm currently working on my own projects<br>I'm currently learning web development and cloud computing 🌐<br>I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Jr. Developer 👨‍💻
 
