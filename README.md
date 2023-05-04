@@ -31,7 +31,8 @@
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riveraaj&theme=vision-friendly-dark&hide_border=false)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=riveraaj&layout=compact&theme=vision-friendly-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riveraaj&layout=compact&theme=vision-friendly-dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
