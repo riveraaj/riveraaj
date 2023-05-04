@@ -16,7 +16,9 @@
 </h1>
 
 ### 👀 About Me:
-I'm currently working on my own projects<br>I'm currently learning web development and cloud computing 🌐<br>I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Jr. Developer 👨‍💻
+- ⚡I'm currently working on my own projects
+- 🌐I'm currently learning web development and cloud computing
+- 👨‍💻I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Jr. Developer
 
 
 ## 🌐 Socials:
