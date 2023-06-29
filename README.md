@@ -18,7 +18,7 @@
 ### :man_technologist: About Me:
 - ⚡ I'm currently working at GAOTek as Tech Support in the visual team
 - 🌐 I'm currently learning web development and cloud computing
-- 🖥️ I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Jr. Developer
+- 🖥️ I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Developer
 
 ---
 
