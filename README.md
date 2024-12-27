@@ -16,9 +16,7 @@
 </h1>
 
 ### 👨🏽‍💻 About Me:
-- ⚡ I'm currently working at GAOTek as Tech Support in the visual team
-- 🌐 I'm currently learning web development and cloud computing
-- 🖥️ I'm interested in performing tasks in the area of Front-End, Back-End, IT as a Developer
+I am a Software Engineer specialized in the .NET ecosystem, with a comprehensive approach that encompasses development, design and optimization of systems. Currently, I am expanding my expertise in Cloud Computing, with the vision of evolving towards solution architecture. As a self-starter, I adapt easily to changing environments and collaborate effectively with diverse teams.
 
 ---
 
